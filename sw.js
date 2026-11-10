@@ -1,5 +1,5 @@
 // オフライン用キャッシュ（ファイルを更新したら VERSION を変える）
-const VERSION = "step-v1.0.1";
+const VERSION = "step-v1.0.2";
 const ASSETS = [
   "./", "index.html", "style.css", "app.js", "step.js", "vision_bundle.mjs", "mp4-muxer.mjs",
   "xlsx.mini.min.js", "manifest.webmanifest", "icon-180.png", "icon-192.png", "icon-512.png",

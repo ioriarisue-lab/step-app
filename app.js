@@ -3,7 +3,7 @@ import { Muxer, ArrayBufferTarget } from "./mp4-muxer.mjs";
 import * as G from "./step.js";
 import { RTMPoseEstimator } from "./rtm.js";
 
-const APP_VERSION = "1.0.1";
+const APP_VERSION = "1.0.2";
 const $ = (s) => document.querySelector(s);
 const $$ = (s) => [...document.querySelectorAll(s)];
 
