@@ -1,0 +1,17 @@
+{
+  "id": "./",
+  "name": "ステップ動作解析",
+  "short_name": "ステップ解析",
+  "description": "ステップ動作の動画からステップ距離・時間・関節角度を推定するオフラインアプリ",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f6f5",
+  "theme_color": "#2b4f8a",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
